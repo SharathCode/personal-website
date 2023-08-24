@@ -1,0 +1,2 @@
+# personal-website
+HTML, CSS and ANIMATION USING DATA-AOS OF SCROLL DOWN.
